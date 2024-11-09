@@ -8,7 +8,7 @@ Converts infix expressions to prefix expressions. Supports an interactive CLI an
 ---
 
 ## Requirements
-- Perl 5 must be installed.
+- Perl 5 must be installed. (Keep in mind that default Perl coming with OS distributions may not include the needed libraries, make sure to have cpan installed as well, just the cpan installation itself imports all of the needed dependencies)
 - Unix shell (For the test scenarios only)
 ---
 
